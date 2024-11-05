@@ -1,4 +1,5 @@
 # Portafolio Web
+![Portafolio Web](../assets/img/open.webp)
 
 Este es un proyecto de un portafolio web personal. Aquí puedes mostrar tus habilidades, proyectos y experiencia de una manera profesional y atractiva.
 
