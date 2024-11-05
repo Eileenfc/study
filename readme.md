@@ -22,7 +22,7 @@ Una Progressive Web App (PWA) es una aplicación web que utiliza capacidades mod
 
 2. **Navegar al directorio del proyecto**
     ```bash
-    cd portafolio-web
+    cd study
     ```
 
 3. **Abrir el archivo `index.html` en tu navegador**
@@ -44,4 +44,4 @@ Si deseas contribuir a este proyecto, por favor realiza un fork del repositorio 
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT.
