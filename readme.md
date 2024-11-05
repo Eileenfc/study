@@ -1,5 +1,6 @@
 # Portafolio Web
-![Portafolio Web](/assets/img/open.webp)
+![Portafolio Web](https://github.com/user-attachments/assets/1a1b7a3f-6ad0-4d71-8f02-c692028d7dfb)
+
 
 Este es un proyecto de un portafolio web personal. Aquí puedes mostrar tus habilidades, proyectos y experiencia de una manera profesional y atractiva.
 
